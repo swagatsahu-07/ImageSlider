@@ -39,7 +39,9 @@ header a:hover{
     background: #14ff72cb;
     border-radius: 2px;
 }
-
+.description {
+    min-height: 120px;
+}
 
 /* slider section  */
 
